@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         Log.i("ldh","log");
         Log.i("ldh","Add Branch1");
         Log.i("ldh","Add Branch2");
+        Log.i("ldh","Add Branch3");
     }
 }
