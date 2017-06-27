@@ -11,8 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.i("ldh","log");
-        Log.i("ldh","Add Branch1");
-        Log.i("ldh","Add Branch2");
-        Log.i("ldh","Add Branch3");
+        Log.i("ldh","Add Branch4");
     }
 }
